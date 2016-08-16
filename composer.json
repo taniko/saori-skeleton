@@ -1,0 +1,14 @@
+{
+    "name": "Hrgruri/SaoriSkeleton",
+    "description": "Saori Skeleton",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Hrgruri\\SaoriSkeleton\\":"src"
+        }
+    },
+    "require": {
+        "php": ">=7.0.0",
+        "hrgruri/saori": "v2.0.x-dev"
+    }
+}
