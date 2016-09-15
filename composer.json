@@ -4,6 +4,6 @@
     "license": "MIT",
     "require": {
         "php": ">=7.0.0",
-        "hrgruri/saori": "~2.0.0"
+        "hrgruri/saori": "^2.1"
     }
 }
