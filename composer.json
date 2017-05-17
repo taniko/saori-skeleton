@@ -1,9 +1,9 @@
 {
-    "name": "hrgruri/saori-skeleton",
+    "name": "taniko/saori-skeleton",
     "description": "Saori Skeleton",
     "license": "MIT",
     "require": {
         "php": ">=7.0.0",
-        "hrgruri/saori": "^2.1"
+        "taniko/saori": "^3.0"
     }
 }

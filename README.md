@@ -1,7 +1,7 @@
 # Saori Skeleton
 ## Installation
 ```sh
-composer create-project hrgruri/saori-skeleton blog
+composer create-project taniko/saori-skeleton blog
 ```
 
 ## Usage
